@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heddanh
-- 👀 I’m interested in learning programming.
+- 👀 I’m interested in learning SQL.
 - 🌱 I’m currently learning about algorithms and data structures.
 - 💞️ I’m looking to collaborate on a new project.
 - 📫 How to reach me hedda.fem@gmail.com
